@@ -13,7 +13,7 @@ restart, each tab that was running Claude resumes **the exact conversation** it 
 ## Install
 
 ```sh
-git clone <this repo> ~/projects/claude-resume
+git clone https://github.com/sandeeprao-uipath/claude-resume.git ~/projects/claude-resume
 ~/projects/claude-resume/install.sh
 ```
 
